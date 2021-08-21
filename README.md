@@ -10,7 +10,7 @@ This application takes user input to generate a unique password in accordance wi
 
 The following image shows the web application's appearance:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/hw-3-ss.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/hw-3-ss.png)
 
 ## Link to working application
 
